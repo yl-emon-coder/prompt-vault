@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yl-emon-coder.github.io/prompt-vault/sitemap.xml
